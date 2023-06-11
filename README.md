@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm TANGI Soufiane</h1>
 <h3 align="center">👋 Hello Everyone, this is TANGI Soufiane 😃</h3>
 
 <h3 align="left">Connect with me:</h3>
