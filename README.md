@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/soufianetangi1" target="blank"><img src="https://img.shields.io/twitter/follow/soufianetangi1?logo=twitter&style=for-the-badge" alt="soufianetangi1" /></a> </p>
 
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/soufianetangi/soufianetangi/assets/125458229/6e1972d3-67c7-4995-a89c-d5578e4ebac2)">
+<img align="right" alt="Coding" width="400" src="![image]()">
 
 
 <h3 align="left">Connect with me:</h3>
