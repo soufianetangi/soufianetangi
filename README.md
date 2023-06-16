@@ -23,15 +23,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<br>
-<div align=right>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-  </div>
 
-<br>
-  </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soufianetangi&show_icons=true&locale=en&layout=compact" alt="soufianetangi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&locale=en" alt="soufianetangi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soufianetangi&" alt="soufianetangi" /></p>
