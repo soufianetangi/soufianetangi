@@ -25,18 +25,18 @@
 
 ### 💫 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gtpoint&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soufianetangi&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 
 
 ### 📊 Github stats
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtpoint)](https://github.com/gtpoint/gtpoint)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufianetangi)](https://github.com/soufianetangi/soufianetangi)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gtpoint&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=soufianetangi&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 
