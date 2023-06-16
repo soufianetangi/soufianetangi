@@ -23,4 +23,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+### 💫 Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gtpoint&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+
+
+
+### 📊 Github stats
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gtpoint&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtpoint)](https://github.com/gtpoint/gtpoint)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gtpoint&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
 
