@@ -28,8 +28,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufianetangi)](https://github.com/soufianetangi/soufianetangi)
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soufianetangi&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
