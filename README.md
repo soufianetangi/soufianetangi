@@ -27,11 +27,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soufianetangi&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 
-## Skill-Matrix :
-
-<a href="https://tryhackme.com/p/soufianetangi">
-  <img src="skills.svg" alt="Skills" >
-</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufianetangi)](https://github.com/soufianetangi/soufianetangi)
 
