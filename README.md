@@ -27,15 +27,15 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soufianetangi&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 
+## Skill-Matrix :
 
-### 📊 Github stats
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<a href="https://tryhackme.com/p/achux21">
+  <img src="skills.svg" alt="Skills" >
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soufianetangi)](https://github.com/soufianetangi/soufianetangi)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soufianetangi&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 
