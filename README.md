@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://BigGtpoint.io)
 
-<h1 align="center">Hi there 👋, I'm TANGI Soufiane</h1>
-<h3 align="center">💻 Software Engineer Student | ALX SE Programme</h3>
+<h1 align="center">👋 Hi there! I'm TANGI Soufiane</h1>
+<h3 align="center">Aspiring Software Engineer | ALX SE Programme Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soufianetangi&label=Profile%20views&color=0e75b6&style=flat" alt="soufianetangi" />
@@ -9,52 +9,78 @@
 
 ---
 
-### 🌐 Connect with me:
+### 💡 About Me
+
+- 🎓 Software Engineering Student at **ALX Africa**
+- 🌱 Currently exploring **DevOps, Backend Engineering**, and **Cloud Technologies**
+- 💬 Ask me about **Python, Linux, Web Dev, Git, REST APIs**
+- 🛠️ Building projects with **Flask**, **JavaScript**, **MongoDB**, **React**, and **C**
+- 👯 I’m looking to collaborate on **open-source projects** and real-world apps
+- 🧠 Passionate about **automation, system design**, and **continuous learning**
+- ✍️ I also enjoy sharing knowledge and writing technical blogs
+- 📫 How to reach me: **soufiane.tangi.dev@gmail.com**
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/soufiane-tangi-239307237" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://fb.com/soufiane.tangi.37" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
   </a>
   <a href="https://instagram.com/soufiane_tangi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
-  <a href="https://discord.gg/Fianso#3523" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://discord.com/users/Fianso#3523" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-  <a href="https://apple.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask,c,git,linux,bash,mongodb,nodejs,express,nginx" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🏆 GitHub Trophies
 
-#### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soufianetangi&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
-
-#### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=soufianetangi&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soufianetangi&theme=monokai&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I’m passionate about problem-solving, building digital solutions, and learning something new every day 🚀
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soufianetangi&theme=dark&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soufianetangi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufianetangi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📁 Featured Projects
+
+- 🔗 [AirBnB Clone](https://github.com/soufianetangi/AirBnB_clone_v2)
+- 🔗 [ALX System Engineering Projects](https://github.com/soufianetangi/alx-system_engineering-devops)
+- 🔗 [Custom Shell (Simple Shell Project)](https://github.com/soufianetangi/simple_shell)
+
+---
+
+### 📌 Quote I Live By
+
+> “Success is not final, failure is not fatal: it is the courage to continue that counts.” – Winston Churchill
+
+---
 
