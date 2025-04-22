@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **open-source projects** and real-world apps
 - 🧠 Passionate about **automation, system design**, and **continuous learning**
 - ✍️ I also enjoy sharing knowledge and writing technical blogs
-- 📫 How to reach me: **soufiane.tangi.dev@gmail.com**
+- 📫 How to reach me: **soufianetangi2@gmail.com**
 
 ---
 
